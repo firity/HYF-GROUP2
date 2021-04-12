@@ -27,9 +27,9 @@ Our goal is to build  [Loruki](https://zen-carson-c10c9f.netlify.app/) wwbsite t
 - [X] Retrospective
 
 ## Technologies
-- [](GITHUB_) 
-- [](VSC) 
-- [](CLI)
+- [GITHUB](GITHUB) 
+- [VSC](VSC) 
+- [CLI](CLI)
 
 ## Links
 
