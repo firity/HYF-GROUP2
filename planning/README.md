@@ -6,15 +6,15 @@
 
 ## Communication Schedule
 
-## Communication Schedule
-
 | Day       | Time      | How          | The topic of discussion                 |
 | --------- | :-------: | :----------: | --------------------------------------  |
+| Monday    |           |              |                                         |
+| Thusday   |           |              |                                         |
 | Wednesday |           |              |                                         |
 | Thursday  |           |              |                                         |
 | Friday    |           |              |                                         |
 | Saturday  |           |              |                                         |
-
+|
 ## Communication Channels
 
 how often will we get in touch on each channel, and what we will discuss there:
