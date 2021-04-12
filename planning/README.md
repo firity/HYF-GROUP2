@@ -28,13 +28,13 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day       |    Katia    |    Firewyni     |    name     |    name     |        name         |
+| Day       |    Katia    |    Firewyni     |    Tugba     |    name     |        name         |
 | --------- | :---------: | :---------: | :---------: | :---------: | :-----------------: |
-| Monday    | after 13:00 | after 13:30 | after 10:00 |   all day   | between 12:00-14:00 |
-| Tuesday   | after 13:00  | after 13:30 | after 14:00 |   all day   |     after 18:00     |
-| Wednesday | after 13:00 | after 13:30 | after 10:00 | after 13:00 |     after 18:00     |
-| Thursday  | after 13:00   | after 13:30 |    busy     |   all day   | between 12:00-14:00 |
-| Friday    | after 13:00  |   between 09:00-12:00   |    busy     |   all day   |     after 18:00     |
+| Monday    | after 13:00 | after 13:30 | between 13:30-15:30, after 19:30 |   all day   | between 12:00-14:00 |
+| Tuesday   | after 13:00  | after 13:30 | between 13:30-15:30, after 19:30 |   all day   |     after 18:00     |
+| Wednesday | after 13:00 | after 13:30 | between 13:30-15:30, after 19:30 | after 13:00 |     after 18:00     |
+| Thursday  | after 13:00   | after 13:30 | between 13:30-15:30, after 19:30|   all day   | between 12:00-14:00 |
+| Friday    | after 13:00  |   between 09:00-12:00   | between 13:30-15:30|   all day   |     after 18:00     |
 
 ### How many hours everyone has per day:
 
