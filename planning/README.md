@@ -8,7 +8,7 @@
 
 | Day       | Time      | How          | The topic of discussion                 |
 | --------- | :-------: | :----------: | --------------------------------------  |
-| Monday    | 19:30     |    zoom      |                                         |
+| Monday    |  19:30    |     Zoom     |                                         |
 | Thusday   |           |              |                                         |
 | Wednesday |           |              |                                         |
 | Thursday  |           |              |                                         |
@@ -31,7 +31,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 | Day       |    Katia    |    Firewyni     |    Tugba     |    Deepa     |        name         |
 | --------- | :---------: | :---------: | :---------: | :---------: | :-----------------: |
 | Monday    | after 13:00 | after 13:30 | between 13:30-15:30, after 19:30 |   after 10:00   | between 12:00-14:00 |
-| Tuesday   | after 13:00  | after 13:30 | between 13:30-15:30, after 19:30 |   after 10:00   |     after 18:00     |
+| Tuesday   | after 13:00  | after 13:30 | between 13:30-15:30, after 19:30 |   after 10:00  |     after 18:00     |
 | Wednesday | after 13:00 | after 13:30 | between 13:30-15:30, after 19:30 | after 12:00 |     after 18:00     |
 | Thursday  | after 13:00   | after 13:30 | between 13:30-15:30, after 19:30|   after 10:00   | between 12:00-14:00 |
 | Friday    | after 13:00  |   between 09:00-12:00   | between 13:30-15:30|   after 10:00   |     after 18:00     |
@@ -41,7 +41,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 - Katia: _5h_;
 - Firewyni: _5h_;
 - Tugba: _4h_;
-- Deepa: _5h_;
+- name: _4h_;
 - name: _3h_;
 
 ## Asking for Help
