@@ -6,9 +6,14 @@
 
 ## Communication Schedule
 
-| Day | How | The topic of discussion |
-| --- | :-: | ----------------------- |
-|     |     |                         |
+## Communication Schedule
+
+| Day       | Time      | How          | The topic of discussion                 |
+| --------- | :-------: | :----------: | --------------------------------------  |
+| Wednesday |           |              |                                         |
+| Thursday  |           |              |                                         |
+| Friday    |           |              |                                         |
+| Saturday  |           |              |                                         |
 
 ## Communication Channels
 
