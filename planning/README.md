@@ -8,7 +8,7 @@
 
 | Day       | Time      | How          | The topic of discussion                 |
 | --------- | :-------: | :----------: | --------------------------------------  |
-| Monday    |  19:30         |     Zoom         |                                         |
+| Monday    |  19:30    |     Zoom     |                                         |
 | Thusday   |           |              |                                         |
 | Wednesday |           |              |                                         |
 | Thursday  |           |              |                                         |
