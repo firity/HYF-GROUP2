@@ -40,7 +40,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 - Katia: _5h_;
 - Firewyni: _5h_;
-- name: _5h_;
+- Tugba: _4h_;
 - name: _4h_;
 - name: _3h_;
 
