@@ -30,6 +30,8 @@ Our goal is to build  [Loruki](https://zen-carson-c10c9f.netlify.app/) wwbsite t
 - GITHUB 
 - VSC
 - CLI
+- HTML
+- CSS
 
 ## Links
 
