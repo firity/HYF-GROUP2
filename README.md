@@ -16,7 +16,7 @@
 
 ## Goals
 
-Our goal is to build  [Loruki](https://zen-carson-c10c9f.netlify.app/) wwbsite together and learn how to plan and organize our development process. 
+Our goal is to build  [Loruki](https://zen-carson-c10c9f.netlify.app/) website together and learn how to plan and organize our development process. 
 
 ## Stages
 
