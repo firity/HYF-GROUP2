@@ -8,8 +8,8 @@
 
 | Day       | Time      | How          | The topic of discussion                 |
 | --------- | :-------: | :----------: | --------------------------------------  |
-| Monday    |  19:30    |     Zoom     |                                         |
-| Thusday   |           |              |                                         |
+| Monday    |  19:30    |     Zoom     | Setup                                   |
+| Thusday   |           |     Slack    | Constraints,issues                      |
 | Wednesday |           |              |                                         |
 | Thursday  |           |              |                                         |
 | Friday    |           |              |                                         |
