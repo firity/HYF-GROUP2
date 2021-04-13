@@ -3,12 +3,14 @@
 
 ## Table of contents
 
-- [Introduction](#Introduction)
-- [Goals](#Goals)
-- [Stages](#Stages)
-- [Technologies](#Technologies)
-- [Links](#Links)
-- [Screenshots](#Screenshots)
+- [Loruki website](#loruki-website)
+  - [Table of contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Goals](#goals)
+  - [Stages](#stages)
+  - [Technologies](#technologies)
+  - [Links](#links)
+  - [Screen shots](#screen-shots)
 
 ## Introduction
 
@@ -34,5 +36,8 @@ Our goal is to build  [Loruki](https://zen-carson-c10c9f.netlify.app/) wwbsite t
 - CSS
 
 ## Links
+- [Repo](#https://github.com/firity/HYF-GROUP2)
+- [Demo](#https://firity.github.io/HYF-GROUP2)
+
 
 ## Screen shots
