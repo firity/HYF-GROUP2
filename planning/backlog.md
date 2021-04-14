@@ -7,6 +7,7 @@ are necessary for basic usability:
 - As a user I want to see the menu (Home,Features,Docs) so that I can figure out easily how the website works.
   - Given the user wants to navigate to sections of the website, each page should open with the same tab.
   - Given the user wants to know where she currently is, there should be an outline around the selected button to prevent any confusion.
+  - Show the user which program languages Loruki supports.
   
 - **user story name**: As a [type of user] I want to [do something] so that [I achieve some goal]
   - Given [context] when [a specific action is performed] then [a set of consequences should occur]
