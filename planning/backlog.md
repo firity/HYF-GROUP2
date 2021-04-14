@@ -43,6 +43,8 @@ would be really cool ... if there's time:
 
 - As a **user**,I want to see "Frequently Asked Questions" navbar, so that I can find information about my question.
   - Given the user wants to search for information then there should be a FAQ section added to the navbar.
+  - As a **user**, I want to see Navigations links at footer with a hover effect so I can see which list item is selected for pressing.
+  - Given quick menu highlighted when it's pressed then the border or the background color should change so that user can understand.
 
 <!--- **user story name**: As a [type of user] I want to [do something] so that [I achieve some goal]
   - Given [context] when [a specific action is performed] then [a set of consequences should occur]
