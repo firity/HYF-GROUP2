@@ -11,10 +11,9 @@
 - I want a website to be comfortable to use from smaller devices such as phone and tablet
 - As a **developer** I want to try demo version of the product to decide if I want to use it.
 
-- **user story name**: As a [type of user] I want to [do something] so that [I achieve some goal]
+<!-- **user story name**: As a [type of user] I want to [do something] so that [I achieve some goal]
   - Given [context] when [a specific action is performed] then [a set of consequences should occur]
-  - ...
--->
+  - ...-->
 
 ## Should-Haves
 
