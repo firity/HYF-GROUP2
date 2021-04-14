@@ -42,7 +42,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 - Firewyni: _5h_;
 - Tugba: _4h_;
 - Hasan: _4h_;
-- name: _3h_;
+- Deepa: _5h_;
 
 ## Asking for Help
 
