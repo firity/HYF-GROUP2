@@ -1,15 +1,13 @@
 # Backlog
 
-A collection of user stories you can choose from. Stories inside of each priority level are not necessarily in order. 
-You and your team will decide when to develop each story by drawing out your Story Sequencing.
-
 ## Must-Haves
 
 are necessary for basic usability:
 
-- **user story name**: As a [type of user] I want to [do something] so that [I achieve some goal]
-  - Given [context] when [a specific action is performed] then [a set of consequences should occur]
-  - ...
+- As a user I want to see the menu (Home,Features,Docs) so that I can figure out easily how the website works.
+  - Given the user wants to navigate to sections of the website, each page should open with the same tab.
+  - Given the user wants to know where she currently is, there should be an outline around the selected button to prevent any confusion.
+  
 - **user story name**: As a [type of user] I want to [do something] so that [I achieve some goal]
   - Given [context] when [a specific action is performed] then [a set of consequences should occur]
   - ...
@@ -19,9 +17,9 @@ are necessary for basic usability:
 
 will complete the user experience, but are not necessary:
 
-- **user story name**: As a [type of user] I want to [do something] so that [I achieve some goal]
-  - Given [context] when [a specific action is performed] then [a set of consequences should occur]
-  - ...
+- As a user, I want the website to be mobile-friendly so that I can reach the website on mobile quickly.
+  - Given the user wants to open the website on mobile, all sections(menu,form etc.) should be responsive.
+  
 - **user story name**: As a [type of user] I want to [do something] so that [I achieve some goal]
   - Given [context] when [a specific action is performed] then [a set of consequences should occur]
   - ...
@@ -31,9 +29,9 @@ will complete the user experience, but are not necessary:
 
 would be really cool ... if there's time:
 
-- **user story name**: As a [type of user] I want to [do something] so that [I achieve some goal]
-  - Given [context] when [a specific action is performed] then [a set of consequences should occur]
-  - ...
+- As a user,I want to see "Frequently Asked Questions" navbar, so that I can find information about my question.
+  -Given the user wants to search for information then there should be a FAQ section added to the navbar.
+
 - **user story name**: As a [type of user] I want to [do something] so that [I achieve some goal]
   - Given [context] when [a specific action is performed] then [a set of consequences should occur]
   - ...
