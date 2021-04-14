@@ -7,7 +7,7 @@ are necessary for basic usability:
 - As a user I want to see the menu (Home,Features,Docs) so that I can figure out easily how the website works.
   - Given the user wants to navigate to sections of the website, each page should open with the same tab.
   - Given the user wants to know where she currently is, there should be an outline around the selected button to prevent any confusion.
-  - Given the user short and precise information about the current webpage.
+  - Given the user short and precise information about the webpage.
 - As a user I want a logo so that my website can be easily identified.
    
 - **user story name**: As a [type of user] I want to [do something] so that [I achieve some goal]
