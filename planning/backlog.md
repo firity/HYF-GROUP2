@@ -7,10 +7,10 @@
 - Given the user wants to navigate to sections of the website, each page should open with the same tab.
 - Given the user wants to know where she currently is, there should be an outline around the selected button to prevent any confusion.
 - Given the user short and precise information about the current webpage.
+- As a user I want a logo so that my website can be easily identified.
 - I want a website to be comfortable to use from smaller devices such as phone and tablet
 - As a **developer** I want to try demo version of the product to decide if I want to use it.
 
-<!--
 - **user story name**: As a [type of user] I want to [do something] so that [I achieve some goal]
   - Given [context] when [a specific action is performed] then [a set of consequences should occur]
   - ...
@@ -20,6 +20,7 @@
 
 will complete the user experience, but are not necessary:
 
+
 - As a **user**, I want to be able to see the contact navbar, so that I know how to contact the company if I’m interested.
 
 - Show the user which program languages Loruki supports.
@@ -27,7 +28,6 @@ will complete the user experience, but are not necessary:
 <!--
 - **user story name**: As a [type of user] I want to [do something] so that [I achieve some goal]
   - Given [context] when [a specific action is performed] then [a set of consequences should occur]
-
 -->
 
 ## Could-Haves
