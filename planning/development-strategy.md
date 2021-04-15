@@ -1,6 +1,33 @@
-> The headers in this document say what labels should be attached to a task issue.
+# Development strategy
 
-# All About Trees
+## OPTIONAL (Milestone)
+
+ - [ ] Create index.html/ style.css (issue)
+ - [ ] Add the font "Lato" from Google fonts in Header (issue) `html`
+ - [ ] A website title for the tab (in the header of the document) (_issue_)
+
+## HEADER (navigation bar) (Milestone)
+
+`HTML`
+
+ - [ ] Create div class="navbar".
+ - [ ] div with class "container flex" for logo.
+ - [ ] H1 class logo 
+ - [ ] nav with navigation links using ul and li.
+ 
+`CSS`
+
+ - [ ] place elements using flex 
+ - [ ] class logo
+ - [ ] underline for links when hover and currently on the page
+ - [ ] colors for background, links
+ 
+
+
+
+
+
+<!--
 
 > everything in this document should be under the `must-have` milestone
 
@@ -18,7 +45,7 @@ A simple little website about trees.
 
 > all issues under this header will have `for: site-title` _and_ `type: html`
 
-- A website title for the tab (in the header of the document) (_issue_)
+
 - A title in the web page (_issue_)
   - [ ] uses a class "centered" (_issue checklist_)
 
@@ -119,3 +146,5 @@ A simple little website about trees.
   - [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
 - Check for styling errors with a linter & prettify code
 - Validate source code on w3 to check for any last mistakes
+
+-->
