@@ -28,8 +28,8 @@ Some boundaries around our project.
 ## Internal: Voluntary
 
 - **Copying code** from original repo is acceptable, as far as there is not much time for the project.
-- **Skipping** some sections of the website that are unnesassary is ok. No or minimum Java-script due to lack of knowledge.
-- **One approval** is enough for pull request too speed up the workflow, because there are not always people available for rewieving.
+- **Skipping** some sections of the website that are unnecessary is ok. No or minimum Java-script due to lack of knowledge.
+- **One approval** is enough for pull request too speed up the workflow, because there are not always people available for reviewing.
 - **Availability of the team members** see the time [table](https://github.com/firity/HYF-GROUP2/tree/main/planning)
 
 <!--
