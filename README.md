@@ -14,6 +14,8 @@
 
 ## Introduction
 
+Our team is rebuilding the LOURUKI website. 
+
 ## Goals
 
 Our goal is to build  [Loruki](https://zen-carson-c10c9f.netlify.app/) website together and learn how to plan and organize our development process. 
