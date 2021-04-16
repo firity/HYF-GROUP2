@@ -10,8 +10,8 @@
 | --------- | :-------: | :----------: | --------------------------------------  |
 | Monday    |  19:30    |     Zoom     | Setup                                   |
 | Thusday   |    -      |     Slack    | Constraints,issues,backlog              |
-| Wednesday |           |              |                                         |
-| Thursday  |           |              |                                         |
+| Wednesday |    -      |      -       |           -                             |
+| Thursday  |  05:00    |     Zoom     | wireframe,development stratagy          |
 | Friday    |           |              |                                         |
 | Saturday  |           |              |                                         |
 
