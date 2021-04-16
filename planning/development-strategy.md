@@ -23,9 +23,51 @@
  - [ ] colors for background, links
  
 
+---
 
+## `for: showcase` (_label_)
 
+> - the site title should be developed on a _feature branch_ named `showcase`.
+> - Each issue in this section should be developed on a branch of `showcase`, and merged with a PR.
+> - when all of the issues in this section have been merged to `showcase`, `showcase` can be merged to `main`
 
+### `type: html` (_label_)
+
+> all issues under this header will have `for: showcase` _and_ `type: html`
+
+ - section with class called "showcase"
+	 - div with class called "container grid"
+		 -  div with class called showcase-text
+			 - Title with h1
+			 - Information with p
+			 - a link with class called "btn btn-outline"
+		- div with class called "showcase-form card"
+			-  Title with h1
+			-  form
+				- div with class called "form-control"
+					-  input with text type (required)
+				-  div with class called "form-control"
+					-  input with text type (required)
+				-  div with class called "form-control"
+					-  input with email type (required)
+				-  input with submit type, class called "btn btn-primary"
+
+### `type: css` (_label_)
+
+> all issues under this header will have `for: showcase` _and_ `type: css`
+
+- "showcase": height,background-color,color,position
+- "showcase h1": font-size
+- "showcase p": margin
+- "showcase grid":overflow,grid-template-columns,gap
+- "showcase-text": animation
+- "showcase-form":position,top,height,width,padding,z-index,justify-self,animation
+- "showcase-form form-control": margin
+- "showcase-form input[type='text']" ,"showcase-form input[type='email']":
+	- border,border-bottom,width,padding,font-size
+- "showcase-form input:focus": outline
+- "showcase::before", "showcase::after"
+	- content,position,height,bottom,right,left,background,transform,-webkit-transform,-moz-transform,ms-transform
 
 <!--
 
