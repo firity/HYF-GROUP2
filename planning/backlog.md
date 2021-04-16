@@ -19,6 +19,9 @@
 - As **a user** I want to know how to install Loruki with CLI so that I can easily install on my computer.
 	- [ ] Given the user wants to see CLI command , there should be an instruction by showing the code line.
 
+ - As **a user** I want to know which languages support Loruki so that I can chose the language that i want to use.
+	- [ ] Given the user wants to see languages clearly, All languages should be in a line with their logos.
+
  - As **a user** I want to see a menu at the bottom of the website  so that I can reach the menu easily.
 	- [ ] Given the user wants to click the menu, It should work with the same functions as the menu on the top.
   
@@ -28,9 +31,6 @@ will complete the user experience, but are not necessary:
 
 - As **a user** I want to see statistical data of the website so that I can understand how much reliable the website is.
 	- [ ]  Given the user wants to learn statistical data of the website in detail, Deployment, Published and Project  sections should show all statistical data in homepage.
-
- - As **a user** I want to know which languages support Loruki so that I can chose the language that i want to use.
-	- [ ] Given the user wants to see languages clearly, All languages should be in a line with their logos.
 
  - As **a user** I want to read more information about Loruki so that I can learn the features of Loruki.
 	- [ ] Given the user wants to click "Read More", Another page should open with more information.
