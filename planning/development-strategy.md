@@ -25,13 +25,9 @@
 
 ---
 
-## `for: showcase` (_label_)
+## `for: showcase`
 
-> - the site title should be developed on a _feature branch_ named `showcase`.
-> - Each issue in this section should be developed on a branch of `showcase`, and merged with a PR.
-> - when all of the issues in this section have been merged to `showcase`, `showcase` can be merged to `main`
-
-### `type: html` (_label_)
+### `type: html`
 
 > all issues under this header will have `for: showcase` _and_ `type: html`
 
@@ -52,7 +48,7 @@
 					-  input with email type (required)
 				-  input with submit type, class called "btn btn-primary"
 
-### `type: css` (_label_)
+### `type: css`
 
 > all issues under this header will have `for: showcase` _and_ `type: css`
 
