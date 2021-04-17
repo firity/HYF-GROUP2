@@ -31,3 +31,4 @@
 - working all together in 1 document and 1 Repo
 - we have to plan more time for collaboration with team
   
+![retro](https://github.com/firity/HYF-GROUP2/blob/main/Quick%20retrospective.jpg)
