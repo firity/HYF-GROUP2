@@ -1,6 +1,6 @@
 # Wireframe
 
-Our wireframe! We decided to have a simple page, these are the decisions we made and why we made them ...
+Our wireframe! We decided to have a simple page.
 
 ---
 
