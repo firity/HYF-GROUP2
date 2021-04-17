@@ -1,35 +1,30 @@
 # Development strategy
 
-## OPTIONAL 
+## `for: Header`
 
- - [ ] Create index.html/ style.css (issue)
- - [ ] Add the font "Lato" from Google fonts in Header (issue) `html`
- - [ ] A website title for the tab (in the header of the document) (_issue_)
+### `type: html` (Header)
 
-## HEADER (navigation bar)
+- div with class called "navbar"
+- div with class called "container flex"
+	- Title with h1 and class called "Logo"
+	- nav
+		- ul
+			- li
+				- a link(Home) with href "index.html"
+				- a link (Features) with href "features.html"
+				- a link (Docs) with href "docs.html"
 
-### `type: html`
+### `type: css`(Header)
 
- - [ ] Create div class="navbar".
- - [ ] div with class "container flex" for logo.
- - [ ] H1 class logo 
- - [ ] nav with navigation links using ul and li.
- 
-`CSS`
+- "navbar": background-color, color, height
+- "navbar ul": display
+- "navbar a": color, padding, margin
+- "navbar a:hover": border-bottom
+- "navbar .flex": justify-content
 
- - [ ] place elements using flex 
- - [ ] class logo
- - [ ] underline for links when hover and currently on the page
- - [ ] colors for background, links
- 
+## `for: Showcase`
 
----
-
-## `for: showcase`
-
-### `type: html`
-
-> all issues under this header will have `for: showcase` _and_ `type: html`
+### `type: html` (Showcase)
 
  - section with class called "showcase"
 	 - div with class called "container grid"
@@ -48,9 +43,7 @@
 					-  input with email type (required)
 				-  input with submit type, class called "btn btn-primary"
 
-### `type: css`
-
-> all issues under this header will have `for: showcase` _and_ `type: css`
+### `type: css` (Showcase)
 
 - "showcase": height,background-color,color,position
 - "showcase h1": font-size
@@ -65,25 +58,32 @@
 - "showcase::before", "showcase::after"
 	- content,position,height,bottom,right,left,background,transform,-webkit-transform,-moz-transform,ms-transform
 
-## FOOTER (contacts) 
+## `for: Footer`
 
-### `type: html`
-- Footer text
-  - [ ] uses a "footer bg-dark py-5" class
-  - [ ] uses a "container grid grid-3" class
-- Footer list
-  - [ ] nav with navigation links using ul and li.
-- Social media
-  - [ ] uses a "social" class
-  - [ ] uses a "fab fa-github fa-2x" class
-  - [ ] uses a "fab fa-facebook fa-2x" class
-  - [ ] uses a "fab fa-instagram fa-2x" class
-  - [ ] uses a "fab fa-twitter fa-2x" class
- 
-### `type: css`
+### `type: html` (Footer)
 
-- Footer text
-- Social media icons
+- footer with class called "footer bg-dark py-5"
+- div with class called "container grid grid-3"
+- div 
+	- Title with h1
+	- Text with p
+- nav
+	- ul
+		- li
+			- a link(Home) with href "index.html"
+			- a link (Features) with href "features.html"
+			- a link (Docs) with href "docs.html"
+- div with class called "social"
+	- A link(Github) with class called "fab fa-github fa-2x"
+	- A link(Facebook) with class called "fab fa-facebook fa-2x"
+	- A link(Instagram) with class called "fab fa-instagram fa-2x"
+	- A link (Twitter) with class called "fab fa-twitter fa-2x"
+
+### `type: css` (Footer)
+
+- "footer .social a": margin
+- "p": margin
+- "h1": font-weight, line-height, margin
 
 <!--
 
@@ -102,7 +102,6 @@ A simple little website about trees.
 ### `type: html` (_label_)
 
 > all issues under this header will have `for: site-title` _and_ `type: html`
-
 
 - A title in the web page (_issue_)
   - [ ] uses a class "centered" (_issue checklist_)
