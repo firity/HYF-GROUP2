@@ -1,48 +1,33 @@
-# Retrospective
 
-<!--
-  compare your Development Strategy to your Project Board
-  how different was your planned tasks from what you actually built?
-  building something very different from your plan is not a bad thing!
-  what counts is that you learn from your mistakes and make a better plan next time.
--->
+# Retrospective
 
 ## Stop Doing
 
-<!--
-  what did your group do that did not go very well
-  agree to stop doing this in the next project
-  this could be about anything. communication, code, review, ...
-  examples (be specific!):
-  - pushing changes directly to master/main branch
-  - claiming more issues at once than you can finish
--->
+- pushing changes directly to master/main branch
+- adding PRs without reviewing
+- working on 1 task with the whole team
+- slow communication with team members
 
 ## Continue Doing
 
-<!--
-  what did your group that worked vwell
-  agree to keep doing these in the next project
-  this could be about anything. communication, code, review, ...
-  examples (be specific!):
-  - making small, well-named commits
-  - using the `help-wanted` label
--->
+- making small, well-named commits
+- making branches for every part of the work and for each teem member
+- making issues for all tasks
+- using suitable labels for issues
 
 ## Start Doing
 
-<!--
-  what ideas does your group have for making a better project next time?
-  agree to give these things a try in the next projec
-  this could be about anything. communication, code, review, ...
-  examples (be specific!):
-  - use @mentions more often
-  - use the github integration in slack. /github
--->
+- everyday communication (small meetings for 15 minutes)
+- assign tasks to a person
+- early planning
+- well named commit
 
 ## Lessons Learned
 
-<!--
-  what cool things or general lessons has your team learned?
-  This can be about anything! code, collaboration, git, github, Belgian history, ...
--->
+- Git commands
+- collaboration Github + VSCode
+- Agile method
+- working with branches
+- working all together in 1 document and 1 Repo
+- we have to plan more time for collaboration with team
+  
