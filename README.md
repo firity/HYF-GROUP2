@@ -10,7 +10,6 @@
   - [Stages](#stages)
   - [Technologies](#technologies)
   - [Links](#links)
-  - [Screen shots](#screen-shots)
 
 ## Introduction
 
