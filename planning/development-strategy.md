@@ -1,14 +1,14 @@
 # Development strategy
 
-## OPTIONAL (Milestone)
+## OPTIONAL 
 
  - [ ] Create index.html/ style.css (issue)
  - [ ] Add the font "Lato" from Google fonts in Header (issue) `html`
  - [ ] A website title for the tab (in the header of the document) (_issue_)
 
-## HEADER (navigation bar) (Milestone)
+## HEADER (navigation bar)
 
-`HTML`
+### `type: html`
 
  - [ ] Create div class="navbar".
  - [ ] div with class "container flex" for logo.
@@ -64,6 +64,26 @@
 - "showcase-form input:focus": outline
 - "showcase::before", "showcase::after"
 	- content,position,height,bottom,right,left,background,transform,-webkit-transform,-moz-transform,ms-transform
+
+## FOOTER (contacts) 
+
+### `type: html`
+- Footer text
+  - [ ] uses a "footer bg-dark py-5" class
+  - [ ] uses a "container grid grid-3" class
+- Footer list
+  - [ ] nav with navigation links using ul and li.
+- Social media
+  - [ ] uses a "social" class
+  - [ ] uses a "fab fa-github fa-2x" class
+  - [ ] uses a "fab fa-facebook fa-2x" class
+  - [ ] uses a "fab fa-instagram fa-2x" class
+  - [ ] uses a "fab fa-twitter fa-2x" class
+ 
+### `type: css`
+
+- Footer text
+- Social media icons
 
 <!--
 
