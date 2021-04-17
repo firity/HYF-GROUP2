@@ -20,6 +20,7 @@
 - everyday communication (small meetings for 15 minutes)
 - assign tasks to a person
 - early planning
+- well named commit
 
 ## Lessons Learned
 
