@@ -10,7 +10,6 @@
 
 ## Continue Doing
 
-- making small, well-named commits
 - making branches for every part of the work and for each teem member
 - making issues for all tasks
 - using suitable labels for issues
@@ -20,7 +19,7 @@
 - everyday communication (small meetings for 15 minutes)
 - assign tasks to a person
 - early planning
-- well named commit
+- making small, well-named commits
 
 ## Lessons Learned
 
