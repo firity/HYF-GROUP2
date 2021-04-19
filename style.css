@@ -58,6 +58,11 @@ img {
 .navbar .flex {
   justify-content: space-between;
 }
+/* Stats */
+.stats {
+  padding-top: 100px;
+}
+/* Utilities */
 .container {
   max-width: 1100px;
   margin: 0 auto;
@@ -70,5 +75,19 @@ img {
   align-items: center;
   height: 100%;
 }
-
+/* Stats */
+.stats {
+  padding-top: 100px;
+}
+.stats-heading {
+  max-width: 500px;
+  margin: auto;
+}
+.stats .grid h3 {
+}
+font-size: 35px;
+.stats .grid p {
+  font-size: 20px;
+  font-weight: bold;
+}
 /* -----Main Screen-----*/
